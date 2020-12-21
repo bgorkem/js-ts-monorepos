@@ -1,13 +1,13 @@
 {
   "name": "@shlack/types",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@shlack/utils": "^2.2.2"
+    "@shlack/utils": "^2.2.3"
   },
   "scripts": {
     "clean": "scripty clean.sh",
