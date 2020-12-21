@@ -2,7 +2,7 @@
   "name": "@shlack/utils",
   "version": "2.2.4",
   "author": {
-    "name": "Bulent Gorkem"
+    "name": "Bulent Gorkem <bgorkem@hotmail.com>"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
