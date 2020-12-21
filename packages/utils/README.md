@@ -4,5 +4,5 @@ Todo add some docs here
 
 Adding more and more
 
-Adding verdaccio here
+Adding verdaccio here and fixing the docs..
 
