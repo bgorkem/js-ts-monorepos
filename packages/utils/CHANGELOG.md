@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/bgorkem/js-ts-monorepos/compare/v2.1.0...v2.2.0) (2020-12-21)
+
+
+### Features
+
+* **utils:** more and more changes coming to readme ([ff48aa2](https://github.com/bgorkem/js-ts-monorepos/commit/ff48aa2bb527ccc6c72a0f87cf1049aefde9c1c7))
+
+
+
+
+
 # [2.1.0](https://github.com/bgorkem/js-ts-monorepos/compare/v2.0.1...v2.1.0) (2020-12-21)
 
 
