@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.2](https://github.com/bgorkem/js-ts-monorepos/compare/v2.2.1...v2.2.2) (2020-12-21)
+
+
+### Bug Fixes
+
+* **utils:** fix the typo in docs ([432c8db](https://github.com/bgorkem/js-ts-monorepos/commit/432c8dbf7a7f1cc1974bf22cf61cf0bf8386a784))
+
+
+
+
+
 ## [2.2.1](https://github.com/bgorkem/js-ts-monorepos/compare/v2.2.0...v2.2.1) (2020-12-21)
 
 
