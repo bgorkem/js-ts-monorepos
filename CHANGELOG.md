@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.5](https://github.com/mike-north/js-ts-monorepos/compare/v2.2.4...v2.2.5) (2020-12-21)
+
+
+### Bug Fixes
+
+* **types:** performance fix ([2839014](https://github.com/mike-north/js-ts-monorepos/commit/2839014fbec0a62e8e1b700c9157440916f59f78))
+
+
+
+
+
 ## [2.2.4](https://github.com/mike-north/js-ts-monorepos/compare/v2.2.3...v2.2.4) (2020-12-21)
 
 **Note:** Version bump only for package js-ts-monotrepos
