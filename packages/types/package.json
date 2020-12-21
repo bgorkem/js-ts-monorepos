@@ -1,23 +1,22 @@
 {
   "name": "@shlack/types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "publishConfig": {
     "access": "public"
   },
-
   "dependencies": {
-    "@shlack/utils":"^0.0.1"
+    "@shlack/utils": "^0.0.2"
   },
   "scripts": {
-    "clean":"scripty clean.sh",
+    "clean": "scripty clean.sh",
     "test": "scripty test.sh",
-    "lint":"scripty link.sh",
+    "lint": "scripty link.sh",
     "build": "scripty build.sh"
   },
   "scripty": {
-    "path":"../../scripts/packages"
+    "path": "../../scripts/packages"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.12.11",
