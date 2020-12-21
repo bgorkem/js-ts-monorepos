@@ -1,8 +1,6 @@
 ## Utils documentation
 
-Todo add some docs here
-
-Adding more and more
+Utilities library here
 
 Adding verdaccio here and fixing the docs..
 
