@@ -1,7 +1,8 @@
 {
   "name": "@shlack/utils",
   "version": "2.2.3",
-  "main": "dist/index.js",
+  "author": {"name":"Bulent Gorkem"},
+ "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "publishConfig": {
     "access": "public"
