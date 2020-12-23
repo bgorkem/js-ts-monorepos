@@ -25,5 +25,6 @@
     "@types/jest": "^26.0.19",
     "jest": "^26.6.3",
     "typescript": "^3.9.1"
-  }
+  },
+  "gitHead": "303a32a4e341769c65f33930b588c69bdfe29fb8"
 }
