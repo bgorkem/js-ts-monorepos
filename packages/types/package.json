@@ -1,6 +1,6 @@
 {
   "name": "@shlack/types",
-  "version": "2.2.9",
+  "version": "2.3.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "Bulent Gorkem <bgorkem@hotmail.com>",
@@ -8,7 +8,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@shlack/utils": "^2.2.9"
+    "@shlack/utils": "^2.3.0"
   },
   "scripts": {
     "clean": "scripty clean.sh",
