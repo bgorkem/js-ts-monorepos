@@ -10,6 +10,7 @@
     "packages/*"
   ],
   "scripts": {
+    "start": "scripty",
     "clean": "scripty clean.sh",
     "lint": "scripty lint.sh",
     "test": "scripty test.sh",
@@ -42,6 +43,10 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
+  },
+
+  "resolutions": {
+    "@types/react": "^16.14.2"
   }
 
 }
