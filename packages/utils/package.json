@@ -8,6 +8,7 @@
     "access": "public"
   },
   "scripts": {
+    "api-report": "scripty",
     "clean": "scripty clean.sh",
     "test": "scripty test.sh",
     "lint": "scripty link.sh",

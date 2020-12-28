@@ -11,6 +11,7 @@
     "@shlack/utils": "^2.3.0"
   },
   "scripts": {
+    "api-report": "scripty",
     "clean": "scripty clean.sh",
     "test": "scripty test.sh",
     "lint": "scripty link.sh",

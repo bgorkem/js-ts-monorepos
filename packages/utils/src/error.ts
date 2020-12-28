@@ -14,6 +14,7 @@ function stringifyErrorValue(err: Error): string {
  *
  * @param errorDescription
  * @param err
+ * @public
  *
  */
 export function stringifyError(errorDescription: string, err: unknown): string {
@@ -21,8 +22,8 @@ export function stringifyError(errorDescription: string, err: unknown): string {
     err instanceof Error
       ? stringifyErrorValue(err)
       : err
-      // eslint-disable-next-line @typescript-eslint/restrict-plus-operands
-      ? '' + err
+      ? // eslint-disable-next-line @typescript-eslint/restrict-plus-operands
+        '' + err
       : '(missing error information)'
   }`;
 }

@@ -14,8 +14,15 @@ export interface IUser {
  * @public
  */
 export interface IMessage {
+  /**
+   * id: unique identifier
+   */
   id: number;
+  /**
+   * teamId: team this message belongs to
+   */
   teamId: string;
+  /** channelId: message targeting this channel */
   channelId: string;
   userId: string;
   createdAt: string;
